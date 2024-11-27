@@ -1,0 +1,5 @@
+# Project exclude paths
+/.gradle/
+/Task Management System/task/build/
+/Task Management System/task/build/classes/java/main/
+/Task Management System/task/build/classes/java/test/
